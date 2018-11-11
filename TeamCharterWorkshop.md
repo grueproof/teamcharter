@@ -3,6 +3,7 @@
 **Created by:** Christopher T. Miller / c@ctmiller.net
 **Last Updated:** Sunday, 11. November 2018 02:33PM 
 **Licensed under:** Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  https://creativecommons.org/licenses/by-sa/4.0/ --  Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially. 
+**Github:** https://github.com/grueproof/teamcharter
 
 
 ## Goal
@@ -211,13 +212,32 @@ Examples:
 
 ## Enumerating the Goals and Measures
 
+The goals and measures should shift from year to year, depending on how your company sets goals for the department. You should create goals that support not only the company values but also (and especially) the team values. By doing this, you bind together the two sets of goals and the team will better understand how what they value and do every day will contribute to the company's success. 
+
 ## Writing the Ground Rules
 
 Ground Rules should be written in whatever voice the team relates to best. Try not to violate any HR rules, but keep it informal. Buisnessspeak here will actually erode trust if done poorly. 
 
 Examples:
 
-* Tell the truth
+* Tell the truth, the whole truth, and nothing but the truth
+* Deal in faxcts, not stress
 * Bring your whole self to the office
-* 
+* No heroes
 * Raise the red, yellow, or white flag early. 
+
+These should convey meaning for the team...it's not important that those outside the team may not understand these. The team can expalin when asked, and that conversation is healthy. These should trigger those conversations. 
+
+## Finishing it off
+
+Once you've drafted the document, the execise is complete. However, encourage the team in the coming days to create a fun and aesthically pleasing version of the document to be hung in cube or in a common area. They should feel liek they own it. 
+
+## It's A Living Document
+
+Review this with the team regularly. Make revisions. Get feedback. Share with new hires, and ask for their input. Keep it alive, or else it will become just another piece of background noise that your team will filter out. 
+
+## Endnotes
+
+ If you find this useful, drop me a line and let me know how it is working for you. If you have suggestions, email me or leave feedback on the github repo. 
+ 
+ Thanks!
