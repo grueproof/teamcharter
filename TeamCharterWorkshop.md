@@ -213,6 +213,10 @@ These should be relatively specific and zero in on what makes this team unique. 
 
 Examples:
 
+* We will work with our business partners to craft solutions that surprise and delight our customers. 
+* We accept ownership of the SDLC, and will adhere and modify it as needed to provide the best value. 
+* We will take security seriously and will hold ourselves to a high standard. 
+
 ## Enumerating the Goals and Measures
 
 The goals and measures should shift from year to year, depending on how your company sets goals for the department. You should create goals that support not only the company values but also (and especially) the team values. By doing this, you bind together the two sets of goals and the team will better understand how what they value and do every day will contribute to the company's success. 
