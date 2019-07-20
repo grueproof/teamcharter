@@ -61,7 +61,7 @@ Each of these topics relates to a different part of the charter. The rest of the
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
 
-"In a perfect world. what are our rules for working together? How do we want to interact as a team? What would new people need to know when joining us?"
+"What is is that we do that no one else can? What would new people need to know when joining us?"
 
 ### Focus
 
