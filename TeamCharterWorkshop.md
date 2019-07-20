@@ -87,7 +87,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"What is it that we do and no one else in the organization can?"
+"What are our rules for working together? In a perfect world, what is our perfect working state what would engourage us to stay engaged?"
 
 ### Focus
 
