@@ -87,7 +87,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"What are our rules for working together? In a perfect world, what is our perfect working state what would engourage us to stay engaged?"
+"What are our rules for working together? In a perfect world, what is our perfect working state.  What would encourage us to stay engaged?"
 
 ### Focus
 
