@@ -24,7 +24,7 @@ By the end of this  6-7 hour workshop, your should have a team charter with the 
 * One pad of Post-It easel paper (for sticking post-its to and sticking on wall around room
 * Several yellow post-it pads
 * Several black sharpies
-* Avery colored dots (for focusing)
+* "Avery" colored dots (for focusing)
 * A laptop for drafting final results
 * coffee, snacks, lunch
 * A large whiteboard with dry-erase makers (for notes, distilling)
