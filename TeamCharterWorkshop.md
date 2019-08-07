@@ -59,7 +59,7 @@ Each of these topics relates to a different part of the charter. The rest of the
 
 ### Brainstorm
 
-For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
 
 "What is is that we do that no one else can? What would new people need to know when joining us?"
 
@@ -133,7 +133,7 @@ Set these aside for later.
 
 ### Brainstorm
 
-For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
 
 "What venues and mediums will we use to communicate with people inside the team? What venues and mediums will we use to communication with people outside the team?"
 
@@ -157,7 +157,7 @@ Set these aside for later.
 
 ### Brainstorm
 
-For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
 
 "How can we best share both information and emotions amongst the team? How will we manage times of high stress?  What are our signals? How can we be inclusive and supportive of one another?"
 
