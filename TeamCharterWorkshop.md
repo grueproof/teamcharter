@@ -111,7 +111,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"In a perfect world, how does work happen? What are our steps to completion? What id 'done?'"
+"In a perfect world, how does work happen? What are our steps to completion? What is 'done?'"
 
 ### Focus
 
