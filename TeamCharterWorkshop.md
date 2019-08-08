@@ -55,7 +55,7 @@ Each of these topics relates to a different part of the charter. The rest of the
 * Team Goals and Measures - Results, Process, Commitment
 * Ground Rules - Trust, Communication, Process
 
-## Part Three: Purpose
+## Part Two: Purpose
 
 ### Brainstorm
 
@@ -81,7 +81,7 @@ Set these aside for later.
 
 
 
-## Part Four: Commitment
+## Part Three: Commitment
 
 ### Brainstorm
 
@@ -105,7 +105,7 @@ Have the team group the items by subject, and record on new post-its the subject
 
 Set these aside for later. 
 
-## Part Five: Process
+## Part Four: Process
 
 ### Brainstorm
 
@@ -129,7 +129,7 @@ Have the team group the items by subject, and record on new post-its the subject
 
 Set these aside for later. 
 
-## Part Six: Communication
+## Part Five: Communication
 
 ### Brainstorm
 
@@ -153,7 +153,7 @@ Have the team group the items by subject, and record on new post-its the subject
 
 Set these aside for later. 
 
-## Part Seven: Trust
+## Part Six: Trust
 
 ### Brainstorm
 
@@ -177,7 +177,7 @@ Have the team group the items by subject, and record on new post-its the subject
 
 Set these aside for later. 
 
-## Part Eight: Values
+## Part Seven: Values
 
 Remember all those subject headings you set aside for later?  Here is where we use them. 
 
@@ -185,7 +185,7 @@ Take all of those subjects and post them where they can be seen. Put up another 
 
 Put the core values on a single sheet and put them up where they can be referenced during the charter drafting phase.  
  
-## Part Nine: Putting It All Together; The Charter Drafting Phase
+## Part Eight: Putting It All Together; The Charter Drafting Phase
 
 ### Writing a purpose statement
 
