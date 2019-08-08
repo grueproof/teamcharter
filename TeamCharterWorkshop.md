@@ -87,7 +87,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"What are our rules for working together? In a perfect world, what is our perfect working state what would engourage us to stay engaged?"
+"What are our rules for working together? In a perfect world, what is our perfect working state what would encourage us to stay engaged?"
 
 ### Focus
 
@@ -111,7 +111,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"In a perfect world, how does work happen? What are our steps to completion? What id 'done?'"
+"In a perfect world, how does work happen? What are our steps to completion? What is 'done?'"
 
 ### Focus
 
@@ -202,7 +202,7 @@ It's possible to embed a strategy here, as well. Example:
 
 The goal for meeting norms is to outline which meetings and communications are mandatory for the team. These can be individual bullet points, like so:
 
-* A daily standup to be held Monday-Thursday
+* A daily stand-up to be held Monday-Thursday
 * An estimation scheduled every day but only used when team members have new work to discuss and review
 * A retrospective to review team process (as opposed to project retros) to be held one a month. 
 * Outings at Sully's Irish Pub as needed. 
@@ -223,7 +223,7 @@ The goals and measures should shift from year to year, depending on how your com
 
 ## Writing the Ground Rules
 
-Ground Rules should be written in whatever voice the team relates to best. Try not to violate any HR rules, but keep it informal. Buisness-speak here will actually erode trust if done poorly. 
+Ground Rules should be written in whatever voice the team relates to best. Try not to violate any HR rules, but keep it informal. Business-speak here will actually erode trust if done poorly.
 
 Examples:
 
@@ -237,7 +237,7 @@ These should convey meaning for the team...it's not important that those outside
 
 ## Finishing it off
 
-Once you've drafted the document, the exercise is complete. However, encourage the team in the coming days to create a fun and aesthetically pleasing version of the document to be hung in cube or in a common area. They should feel liek they own it. 
+Once you've drafted the document, the exercise is complete. However, encourage the team in the coming days to create a fun and aesthetically pleasing version of the document to be hung in cube or in a common area. They should feel like they own it. 
 
 ## It's A Living Document
 
