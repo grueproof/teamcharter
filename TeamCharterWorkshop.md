@@ -55,6 +55,29 @@ Each of these topics relates to a different part of the charter. The rest of the
 * Team Goals and Measures - Results, Process, Commitment
 * Ground Rules - Trust, Communication, Process
 
+## Part Two: Results
+
+### Brainstorm
+
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
+
+"Who are our stakeholders?  What are our deliverables?  What do those deliverables enable?"
+
+### Focus
+
+Using colored dot stickers, ask the team to dot the following. 
+
+* Red: Most important things (2-3 stickers)
+* Green: Most exciting things  (2 stickers)
+* Blue: Most difficult things  (2 stickers)
+
+### Distill
+
+Have the team group the items by subject, and record on new post-its the subjects. You will use these later. 
+
+
+### Brainstorm
+
 ## Part Three: Purpose
 
 ### Brainstorm
