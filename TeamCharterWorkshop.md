@@ -24,7 +24,7 @@ By the end of this  6-7 hour workshop, your should have a team charter with the 
 * One pad of Post-It easel paper (for sticking post-its to and sticking on wall around room
 * Several yellow post-it pads
 * Several black sharpies
-* Avery colored dots (for focusing)
+* "Avery" colored dots (for focusing)
 * A laptop for drafting final results
 * coffee, snacks, lunch
 * A large whiteboard with dry-erase makers (for notes, distilling)
@@ -55,11 +55,34 @@ Each of these topics relates to a different part of the charter. The rest of the
 * Team Goals and Measures - Results, Process, Commitment
 * Ground Rules - Trust, Communication, Process
 
+## Part Two: Results
+
+### Brainstorm
+
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
+
+"Who are our stakeholders?  What are our deliverables?  What do those deliverables enable?"
+
+### Focus
+
+Using colored dot stickers, ask the team to dot the following. 
+
+* Red: Most important things (2-3 stickers)
+* Green: Most exciting things  (2 stickers)
+* Blue: Most difficult things  (2 stickers)
+
+### Distill
+
+Have the team group the items by subject, and record on new post-its the subjects. You will use these later. 
+
+
+### Brainstorm
+
 ## Part Three: Purpose
 
 ### Brainstorm
 
-For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
 
 "What is is that we do that no one else can? What would new people need to know when joining us?"
 
@@ -87,7 +110,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"What are our rules for working together? In a perfect world, what is our perfect working state what would engourage us to stay engaged?"
+"What are our rules for working together? In a perfect world, what is our perfect working state.  What would encourage us to stay engaged?"
 
 ### Focus
 
@@ -111,7 +134,7 @@ Set these aside for later.
 
 For ten minutes, do a post-it note brainstorming session focusing on the follow question:
 
-"In a perfect world, how does work happen? What are our steps to completion? What id 'done?'"
+"In a perfect world, how does work happen? What are our steps to completion? What is 'done?'"
 
 ### Focus
 
@@ -133,7 +156,7 @@ Set these aside for later.
 
 ### Brainstorm
 
-For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
 
 "What venues and mediums will we use to communicate with people inside the team? What venues and mediums will we use to communication with people outside the team?"
 
@@ -157,7 +180,7 @@ Set these aside for later.
 
 ### Brainstorm
 
-For ten minutes, do a post-it note brainstorming session focusing on the follow questions:
+For ten minutes, do a post-it note brainstorming session focusing on the following questions:
 
 "How can we best share both information and emotions amongst the team? How will we manage times of high stress?  What are our signals? How can we be inclusive and supportive of one another?"
 
