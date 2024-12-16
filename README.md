@@ -6,6 +6,8 @@
 
 **Github:** https://github.com/grueproof/teamcharter
 
+**2019 PyOhio Presentation:** [https://www.pyohio.org/2019/presentations/132](https://www.pyohio.org/2019/presentations/132)
+
 
 ## Summary
 
